@@ -15,12 +15,14 @@ normal=$(tput sgr0)
 echo "Please type a name for the .csv file ${bold}(NO SPACES)${normal}"
 read chosenname
 nameextension=$(date +%F)
-file="$HOME/Desktop/IMEI-${nameextension}-${chosenname}.csv"
+file="$HOME/Desktop/IMEI-${nameextension}-${chosenname// /_}.csv"
 echo "IMEI,Model" >> $file
 
+echo ""
 echo "Updating database."
 curl -O https://raw.githubusercontent.com/alaq/imei-collector/master/appledevices.txt > /dev/null
 echo "Database up to date."
+echo ""
 sleep 1
 
 echo "Now collecting IMEIs in ${file}"
