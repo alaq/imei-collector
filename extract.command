@@ -18,6 +18,11 @@ nameextension=$(date +%F)
 file="$HOME/Desktop/IMEI-${nameextension}-${chosenname}.csv"
 echo "IMEI,Model" >> $file
 
+echo "Updating database."
+curl -O https://raw.githubusercontent.com/alaq/imei-collector/master/appledevices.txt > /dev/null
+echo "Database up to date."
+sleep 1
+
 echo "Now collecting IMEIs in ${file}"
 echo "To stop collecting and exit, press CTRL+C"
 echo ""
