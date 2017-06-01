@@ -20,7 +20,7 @@ echo "IMEI,Model" >> $file
 
 echo ""
 echo "Updating database."
-curl -O https://raw.githubusercontent.com/alaq/imei-collector/master/appledevices.txt
+curl https://raw.githubusercontent.com/alaq/imei-collector/master/appledevices.txt > appledevices.txt
 echo "Database up to date."
 echo ""
 sleep 1
