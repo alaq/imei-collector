@@ -62,7 +62,7 @@ do
 			# Output to CSV
 			echo "$imei,$name" >> $file
 			echo "$i : $imei : $name"
-			afplay /System/Library/Sounds/Tink.aiff
+			afplay /System/Library/Sounds/Tink.aiff > /dev/null 2&>1
 
 			i=$((i+1))
 			idevicepair unpair > /dev/null
