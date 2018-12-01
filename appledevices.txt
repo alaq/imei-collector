@@ -559,7 +559,7 @@ Apple iPhone 6 16GB Silver GSM MG2Y2LL/A
 Canada iPhone 6 64GB Space Grey GSM/CDMA MG3H2CL/A
 Canada iPhone 6 64GB Silver GSM/CDMA MG3K2CL/A
 Apple iPhone 6S 32GB Space Gray T-Mobile MN1E2LL/A
-Apple iPhone 6S 32GB Space Gray Sprint MN0M2LL/A
+Apple iPhone 6S 32GB Space Gray ATT MN0M2LL/A
 Apple iPhone 6S 32GB Space Gray Verizon MN1M2LL/A
 Apple iPhone 6S 32GB Gold Verizon MN1U2LL/A
 Apple iPhone 6S 32GB Gold ATT MN0P2LL/A
