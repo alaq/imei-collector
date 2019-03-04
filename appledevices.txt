@@ -668,3 +668,6 @@ Apple iPhone SE 32GB Space Gray MP822J/A
 Apple iPhone SE 32GB Space Gray AT&T MP8A2LL/A
 Apple iPhone SE 32GB Space Gray Verizon MP8K2LL/A
 Apple iPhone 7 256GB Red Telus MPRM2VC/A
+Apple iPhone 5s 16GB Space Gray Verizon MP5C2LL/A
+Apple iPhone 5s 16GB Silver Sprint ME333LL/A
+Apple iPhone SE 16GB Space Gray GSM/CDMA 3A762LL/A
