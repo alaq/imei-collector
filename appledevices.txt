@@ -671,3 +671,5 @@ Apple iPhone 7 256GB Red Telus MPRM2VC/A
 Apple iPhone 5s 16GB Space Gray Verizon MP5C2LL/A
 Apple iPhone 5s 16GB Silver Sprint ME333LL/A
 Apple iPhone SE 16GB Space Gray GSM/CDMA 3A762LL/A
+Apple iPhone 6 64GB Silver T-Mobile MG4H2LL/A
+Apple iPhone 6S 32GB Silver Verizon MN1G2LL/A
