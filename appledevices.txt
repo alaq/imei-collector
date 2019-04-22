@@ -693,3 +693,12 @@ Apple iPhone 7+ 32GB Matte Black Telus MNQM2VC/A
 Apple iPhone 7+ 32GB Rose Gold Telus MNQQ2VC/A
 Apple iPhone 7+ 32GB Jet Black Telus MQU72VC/A
 Apple iPhone 7+ 32GB Silver Telus MNQN2VC/A
+Apple	iPad Mini 3 64GB Space Gray Unlocked MGK12LL/A
+Apple	iPad Mini 3 64GB Silver Unlocked MH382LL/A
+Apple	iPad Mini 2 64GB Space Gray Unlocked MF086LL/A
+Apple	iPhone 7 32GB Jet Black ATT NQTT2LL/A
+Apple	iPhone 7 32GB Jet Black Unlocked MQTV2LL/A
+Apple	iPhone 7 128GB Jet Black T-Mobile 3C225LL/A
+Apple	iPhone 7 128GB Red Unlocked MPRH2LL/A
+Apple	iPhone 7 128GB Red Verizon MPRT2LL/A
+Apple	iPhone 7 128GB Jet Black Unlocked 3C210LL/A
