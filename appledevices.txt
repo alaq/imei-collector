@@ -702,3 +702,5 @@ Apple	iPhone 7 128GB Jet Black T-Mobile 3C225LL/A
 Apple	iPhone 7 128GB Red Unlocked MPRH2LL/A
 Apple	iPhone 7 128GB Red Verizon MPRT2LL/A
 Apple	iPhone 7 128GB Jet Black Unlocked 3C210LL/A
+Apple iPhone 7 32GB Rose Gold D-GSM MNCJ2C/A
+Apple iPhone 7 32GB Gold D-GSM NNCG2J/A
