@@ -704,3 +704,10 @@ Apple	iPhone 7 128GB Red Verizon MPRT2LL/A
 Apple	iPhone 7 128GB Jet Black Unlocked 3C210LL/A
 Apple iPhone 7 32GB Rose Gold D-GSM MNCJ2C/A
 Apple iPhone 7 32GB Gold D-GSM NNCG2J/A
+Apple iPhone 6 16GB Space Gray GSM MG2X2LL/A
+Apple iPhone 6 32GB Gold GSM MQ472LL/A
+Apple iPhone 6 128GB Gold GSM MG4E2LL/A
+Apple iPhone 6S 32GB Space Gray GSM MRPQ2LL/A
+Apple iPhone 6S 32GB Rose Gold T-Mobile MN192LL/A
+Apple iPhone 5S 16GB Silver GSM ME37866/A
+Apple iPhone 6 Plus 16GB Gold GSM 3A056C/A
